@@ -4,6 +4,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-## 🌐 **Please Visit Website**: **[arezoupst.github.io](https://arezoupst.github.io)**
+## **[arezoupst.github.io](https://arezoupst.github.io)**
 
 
