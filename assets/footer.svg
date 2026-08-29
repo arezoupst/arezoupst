@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E6E6FA"/>
+      <stop offset="100%" stop-color="#DCD0FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="72" rx="18" fill="url(#fbg)"/>
+  <text x="440" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#967BB6">designed with the same lilac as my site · #E6E6FA #C8A2C8 #967BB6</text>
+  <text x="440" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#7A6890">updated for the path, not for a title I have not earned</text>
+</svg>
