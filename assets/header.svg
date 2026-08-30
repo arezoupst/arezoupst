@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="Arezou Pakseresht">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -12,20 +13,13 @@
       <stop offset="100%" stop-color="#967BB6" stop-opacity="0"/>
     </linearGradient>
   </defs>
-
   <rect width="880" height="220" rx="28" fill="url(#bg)"/>
-
-  <!-- quiet geometry, not decoration for its own sake -->
   <circle cx="790" cy="46" r="58" fill="#FFFFFF" fill-opacity="0.22"/>
   <circle cx="838" cy="168" r="36" fill="#967BB6" fill-opacity="0.12"/>
   <circle cx="52" cy="186" r="44" fill="#FFFFFF" fill-opacity="0.18"/>
-
-  <text x="48" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3.2" fill="#967BB6">PROFILE · v0.2</text>
-
-  <text x="48" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#5C4A72">Arezou Pakseresht</text>
-
+  <text x="48" y="58" font-family="Georgia, Times New Roman, serif" font-size="15" letter-spacing="3.2" fill="#967BB6">PROFILE  |  v0.2</text>
+  <text x="48" y="112" font-family="Georgia, Times New Roman, serif" font-size="36" fill="#5C4A72">Arezou Pakseresht</text>
   <rect x="48" y="128" width="280" height="2" rx="1" fill="url(#line)"/>
-
-  <text x="48" y="162" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#6B5A7A">MSc Bioinformatics · BSc Computer Science</text>
-  <text x="48" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#7A6890">building toward ML / AI engineering  no title yet, on purpose</text>
+  <text x="48" y="162" font-family="Georgia, Times New Roman, serif" font-size="16" fill="#6B5A7A">MSc Bioinformatics  |  BSc Computer Science</text>
+  <text x="48" y="188" font-family="Georgia, Times New Roman, serif" font-size="15" fill="#7A6890">building toward ML / AI engineering - no title yet, on purpose</text>
 </svg>

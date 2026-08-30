@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Arezou Pakseresht — MSc Bioinformatics, building toward ML / AI engineering" width="880" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E6E6FA,55:DCD0FF,100:C8A2C8&height=200&text=Arezou%20Pakseresht&fontColor=5C4A72&fontSize=46&fontAlignY=40&desc=MSc%20Bioinformatics%20%7C%20building%20toward%20ML%20/%20AI%20engineering&descAlignY=68&descSize=16" width="100%" alt="Arezou Pakseresht — MSc Bioinformatics, building toward ML / AI engineering" />
 </div>
 
 <br/>
@@ -123,5 +123,5 @@ If you are hiring for a junior / internship ML role and you like people who woul
 ---
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Lilac palette footer" width="880" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:C8A2C8,100:E6E6FA&height=80&section=footer" width="100%" alt="lilac footer" />
 </div>
