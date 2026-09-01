@@ -17,24 +17,41 @@
 
 ### about
 
-BSc Computer Science, MSc Bioinformatics (Tehran Polytechnic). I work at the intersection of **bioinformatics**, **machine learning**, and **healthcare**, including pregnancy/postpartum multi-omics and subject-held-out evaluation.
+I started in computer science, then chose bioinformatics because I wanted models that have to survive messy biological data — not just a clean CSV. I hold a BSc in Computer Science and an MSc in Bioinformatics from Tehran Polytechnic (Amirkabir University of Technology).
+
+At the Computational Biology Research Center I work on **multi-omics pregnancy data**: biomarker signal, gestational-age related questions, and models that have to generalize to a person they have not seen. That is why I care about **leave-one-subject-out** evaluation, including Siamese models on pregnancy/postpartum data.
+
+I also work as an R&D assistant at Learnify Health on virtual-patient scenarios for healthcare education, and I was a teaching assistant for Introduction to Bioinformatics at Sharif University of Technology.
+
+I am moving from research notebooks toward the habits of an ML engineer: clearer repos, honest metrics, and systems I could hand to someone else. My direction is **bioinformatics**, **machine learning**, and **healthcare/AI**.
 
 ---
 
 ### stack
 
-`Python` · `TensorFlow` / `Keras` · `scikit-learn` · `pandas` · `Biopython`
+I split this on purpose. A wall of icons is easy. A hiring conversation is not.
 
----
-
-### selected work
-
-| project | what it is |
+| | |
 | :--- | :--- |
-| Siamese + LOSO on pregnancy / postpartum data | Pair models with leave-one-subject-out evaluation. Dataset is private; a public write-up is in progress. |
-| **[Machine-Learning-Projects](https://github.com/arezoupst/Machine-Learning-Projects)** | Healthcare ML work, including breast cancer classification and tumor detection. |
-| **[BioPython](https://github.com/arezoupst/BioPython)** | Biopython notebooks and scripts for sequence retrieval, GC analysis, alignment, and related tasks. |
-| **[Learnify Health](https://www.linkedin.com/company/learnifyhealth)** | R&D assistant on virtual-patient scenarios for healthcare education. Code is not public. |
+| **I can sit down and work in** | `Python` |
+| **Used in real projects — not claiming mastery** | TensorFlow / Keras · scikit-learn · pandas · Biopython · Git |
+| **Leveling up for engineering roles** | `PyTorch` · RAG (course complete — I have not shipped my own system yet) |
+| **Not listing (yet)** | Docker · AWS · a dozen badges I have only watched a tutorial for |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,git&theme=light" alt="Tools used in my work" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="Currently learning PyTorch" />
+</p>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-can_defend-967BB6?style=flat-square&logo=python&logoColor=white&labelColor=C8A2C8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-used_in_projects-E6E6FA?style=flat-square&logo=scikitlearn&logoColor=967BB6&labelColor=DCD0FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-used_in_thesis-E6E6FA?style=flat-square&logo=tensorflow&logoColor=967BB6&labelColor=DCD0FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-leveling_up-FFFFFF?style=flat-square&logo=pytorch&logoColor=967BB6&labelColor=C8A2C8&color=967BB6)
+
+</div>
 
 ---
 
