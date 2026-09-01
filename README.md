@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/email-arezou.pst%40gmail.com-967BB6?style=flat-square&logo=gmail&logoColor=967BB6&labelColor=E6E6FA)](mailto:arezou.pst@gmail.com)
-[![Website](https://img.shields.io/badge/website-arezoupst.github.io-967BB6?style=flat-square&labelColor=E6E6FA&color=967BB6)](https://arezoupst.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-arezoupakseresht-967BB6?style=flat-square&logo=linkedin&logoColor=967BB6&labelColor=E6E6FA)](https://www.linkedin.com/in/arezoupakseresht)
+[![Website](https://img.shields.io/badge/website-arezoupst.github.io-967BB6?style=flat-square&logo=googlechrome&logoColor=967BB6&labelColor=E6E6FA&color=967BB6)](https://arezoupst.github.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-arezoupakseresht-967BB6?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=E6E6FA)](https://www.linkedin.com/in/arezoupakseresht)
 [![Instagram](https://img.shields.io/badge/instagram-bio.python-967BB6?style=flat-square&logo=instagram&logoColor=967BB6&labelColor=E6E6FA)](https://www.instagram.com/bio.python/)
 
 </div>
@@ -40,15 +40,21 @@ I’m currently building stronger ML engineering skills and turning my project-b
 
 #### Core
 
-![Python](https://img.shields.io/badge/Python-comfortable-967BB6?style=flat-square&logo=python&logoColor=white&labelColor=C8A2C8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-in_projects-E6E6FA?style=flat-square&logo=scikitlearn&logoColor=967BB6&labelColor=DCD0FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-in_projects-E6E6FA?style=flat-square&logo=tensorflow&logoColor=967BB6&labelColor=DCD0FF)
-![SQL](https://img.shields.io/badge/SQL-coursework-E6E6FA?style=flat-square&labelColor=DCD0FF)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
+![TensorFlow / Keras](https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FFFFFF?style=flat-square&logo=tensorflow&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FFFFFF?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![pandas](https://img.shields.io/badge/pandas-FFFFFF?style=flat-square&logo=pandas&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=flat-square&logo=numpy&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![Biopython](https://img.shields.io/badge/Biopython-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
+![Multi-omics data analysis](https://img.shields.io/badge/Multi--omics_data_analysis-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
+![Biomarker discovery](https://img.shields.io/badge/Biomarker_discovery-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
 
 #### Currently exploring
 
 ![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
-![PyTorch](https://img.shields.io/badge/PyTorch-learning-FFFFFF?style=flat-square&logo=pytorch&logoColor=967BB6&labelColor=C8A2C8&color=967BB6)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=flat-square&logo=pytorch&logoColor=white&labelColor=C8A2C8&color=967BB6)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
 
 </div>
 
