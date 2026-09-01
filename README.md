@@ -38,31 +38,30 @@ I am still learning, and I am building toward ML / AI engineering: clearer code,
 
 ### skills
 
+Still learning. Grouped by how I actually use them — not by a title.
+
+| | |
+| :--- | :--- |
+| **Comfortable with** | `Python` · `Git` |
+| **In my projects** | TensorFlow / Keras · scikit-learn · pandas · Biopython · SQL |
+| **Learning** | `PyTorch` · RAG · LLM workflows (Pydantic) |
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pytorch,git&theme=light" alt="Python, TensorFlow, scikit-learn, PyTorch, Git" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,git&theme=light" alt="Python, TensorFlow, scikit-learn, Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch — learning" />
 </p>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-967BB6?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-967BB6?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-967BB6?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-967BB6?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-967BB6?style=flat-square&logo=pytorch&logoColor=white)
-![Biopython](https://img.shields.io/badge/Biopython-967BB6?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-967BB6?style=flat-square)
-![Git](https://img.shields.io/badge/Git-967BB6?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-comfortable-967BB6?style=flat-square&logo=python&logoColor=white&labelColor=C8A2C8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-in_projects-E6E6FA?style=flat-square&logo=scikitlearn&logoColor=967BB6&labelColor=DCD0FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-in_projects-E6E6FA?style=flat-square&logo=tensorflow&logoColor=967BB6&labelColor=DCD0FF)
+![SQL](https://img.shields.io/badge/SQL-coursework-E6E6FA?style=flat-square&labelColor=DCD0FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-learning-FFFFFF?style=flat-square&logo=pytorch&logoColor=967BB6&labelColor=C8A2C8&color=967BB6)
+![RAG](https://img.shields.io/badge/RAG-coursework-FFFFFF?style=flat-square&labelColor=C8A2C8&color=967BB6)
 
 </div>
-
-<br/>
-
-| | |
-| :--- | :--- |
-| **Languages & tools** | Python · SQL · Git · pandas |
-| **Machine learning** | scikit-learn · TensorFlow / Keras · PyTorch |
-| **Bioinformatics** | Biopython |
-| **LLMs** | RAG · LLM workflows (Pydantic) |
 
 ---
 
